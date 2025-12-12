@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メランコリーキッチン - 米津玄師 (Cover) / ファム・ファタル #FFFF",
+  "base_artist": "ファム・ファタル - (f)EMME FATALE music-channel",
+  "createdAt": "2025-12-12T18:25:16.326745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メランコリーキッチン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_メランコリーキッチン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メランコリーキッチン",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_メランコリーキッチン_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メランコリーキッチン",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_メランコリーキッチン_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メランコリーキッチン - Melancholy Kitchen",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_メランコリーキッチン_-_Melancholy_Kitchen_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Melancholy Kitchen [メランコリーキッチン]",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/05_Melancholy_Kitchen_[メランコリーキッチン]_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メランコリーキッチン (Cover)",
+      "artist": "ファム・ファタル",
+      "has_synced": false,
+      "path": "select/pl_01_メランコリーキッチン_(Cover)_ファム・ファタル.txt"
+    }
+  ]
+}
