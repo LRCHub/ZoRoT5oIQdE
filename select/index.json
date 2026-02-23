@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "メランコリーキッチン - 米津玄師 (Cover) / ファム・ファタル #FFFF",
-  "base_artist": "ファム・ファタル - (f)EMME FATALE music-channel",
-  "createdAt": "2025-12-12T18:25:16.326745Z",
+  "base_track": "メランコリーキッチン (Cover)",
+  "base_artist": "ファム・ファタル",
+  "createdAt": "2026-02-23T09:14:08.784732Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -23,18 +23,18 @@
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "メランコリーキッチン",
-      "artist": "Yonezu Kenshi",
+      "title": "メランコリーキッチン - Melancholy Kitchen",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/03_メランコリーキッチン_Yonezu_Kenshi.lrc"
+      "path": "select/03_メランコリーキッチン_-_Melancholy_Kitchen_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "メランコリーキッチン - Melancholy Kitchen",
-      "artist": "Kenshi Yonezu",
+      "title": "メランコリーキッチン",
+      "artist": "Yonezu Kenshi",
       "has_synced": true,
-      "path": "select/04_メランコリーキッチン_-_Melancholy_Kitchen_Kenshi_Yonezu.lrc"
+      "path": "select/04_メランコリーキッチン_Yonezu_Kenshi.lrc"
     },
     {
       "id": "lrclib_5",
